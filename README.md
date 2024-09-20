@@ -11,11 +11,11 @@ Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre 
 
 ## Projetos Recentes
 - **[Pong Game](https://github.com/pedrolrm/pong_game)**: Um jogo simples desenvolvido em Python, onde implementei conceitos de programação e design.
-- **[Análise de Queimadas no DF](https://github.com/pedrolrm/analise-ar-brasilia))**: Projeto em Python que analisa dados sobre a qualidade do ar e queimadas no Distrito Federal, visando compreender a gravidade da situação recente.
+- **[Análise de Queimadas no DF](https://github.com/pedrolrm/analise-ar-brasilia)**: Projeto em Python que analisa dados sobre a qualidade do ar e queimadas no Distrito Federal, visando compreender a gravidade da situação recente.
 
 ## Vamos Conversar
 Sinta-se à vontade para me contatar:
 - Email: [p.lucarocha@gmail.com](mailto:p.lucarocha@gmail.com)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/pedrolrm)
+- LinkedIn: [pedrolrm](https://www.linkedin.com/in/pedrolrm)
 
 Agradeço a visita ao meu perfil!
