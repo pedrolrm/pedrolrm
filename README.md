@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, sou Pedro Luca Rocha Manera!
 
-<!--
-**pedrolrm/pedrolrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre cursando na UNB. Tenho paixão por análise de dados e desenvolvimento de projetos que possam impactar positivamente a sociedade.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Linguagens de Programação**: Python, R
+- **Análise de Dados**: Estatística aplicada, Business Intelligence
+- **Ferramentas**: Pandas, Rstudio, Git
+- **Trabalho em Equipe**: Colaboração em projetos e boa comunicação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Recentes
+- **[Pong Game](https://github.com/pedrolrm/pong_game)**: Um jogo simples desenvolvido em Python, onde implementei conceitos de programação e design.
+- **[Análise de Queimadas no DF](https://github.com/pedrolrm/analise-ar-brasilia))**: Projeto em Python que analisa dados sobre a qualidade do ar e queimadas no Distrito Federal, visando compreender a gravidade da situação recente.
+
+## Vamos Conversar
+Sinta-se à vontade para me contatar:
+- Email: [p.lucarocha@gmail.com](mailto:p.lucarocha@gmail.com)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/pedrolrm)
+
+Agradeço a visita ao meu perfil!
