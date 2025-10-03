@@ -1,7 +1,7 @@
 # Olá, sou Pedro Luca Rocha Manera!
 
 ## Sobre Mim
-Sou estudante de Engenharia de Software e atualmente estou no primeiro semestre cursando na UNB. Tenho paixão por análise de dados e desenvolvimento de projetos que possam impactar positivamente a sociedade.
+Sou estudante de Engenharia de Software cursando na UNB. Tenho paixão por análise de dados e desenvolvimento de projetos que possam impactar positivamente a sociedade.
 
 ## Habilidades
 - **Linguagens de Programação**: Python, R
