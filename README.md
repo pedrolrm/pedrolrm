@@ -11,10 +11,10 @@ Learn more about me on [LinkedIn](https://www.linkedin.com/in/pedro-luca-rocha-m
 
 <div>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&locale=en" alt="pedrolrm" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&theme=dracula&locale=en" alt="pedrolrm" />
   </p>
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolrm&show_icons=true&locale=en&layout=compact" alt="pedrolrm" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolrm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pedrolrm" />
   </p><br />
 </div>
 <br />
