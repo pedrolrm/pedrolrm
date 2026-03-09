@@ -7,7 +7,7 @@
     </a>
   </p>
 
-  ---
+
 
   ###  Engenheiro de Software em formação pela UnB
   **Entusiasta de Dados | Estatística Aplicada | Insights Ambientais**
@@ -22,19 +22,12 @@
   </a>
 </div>
 
----
+
 
 ### Estatísticas do GitHub
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="pedrolrm's stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolrm&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="pedrolrm's top langs" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="pedrolrm's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolrm&layout=compact&theme=tokyonight&hide_border=true" alt="pedrolrm's top langs" />
 </div>
+
 
