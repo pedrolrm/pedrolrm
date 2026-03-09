@@ -10,7 +10,7 @@
 
 
   ###  Engenheiro de Software em formação pela UnB
-  **Entusiasta de Dados | Estatística Aplicada | Insights Ambientais**
+  **Análise de Dados | Matemática Aplicada**
   
   *"Transformando dados em insights através de código e curiosidade."*
 </div>
