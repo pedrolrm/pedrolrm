@@ -22,5 +22,10 @@
   </a>
 </div>
 
+<div align="center">
+  
+![Snake Gif](https://github.com/pedrolrm/pedrolrm/blob/output/github-snake-dark.svg)
+
+</div>
 
 
