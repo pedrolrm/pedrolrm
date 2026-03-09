@@ -1,33 +1,40 @@
-## Hi there  
-### I'm Pedro Luca Rocha Manera  
-### A data enthusiast and software engineering student from Brazil  
-
-I'm currently studying **Software Engineering at the University of Brasília (UnB)**  
-Passionate about **data analysis, applied statistics, and environmental insights**  
-Interested in **data-driven projects** that combine programming and real-world impact  
-
-Learn more about me on [LinkedIn](https://www.linkedin.com/in/pedro-luca-rocha-manera)  
-<br />Explore my projects on [GitHub](https://github.com/pedrolrm)
-
-<div>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&theme=dracula&locale=en" alt="pedrolrm" />
+<div align="center">
+  <h1>Olá, eu sou o Pedro Luca! </h1>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/pedro-luca-rocha-manera">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </p>
-  <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolrm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pedrolrm" />
-  </p><br />
+
+  ---
+
+  ###  Engenheiro de Software em formação pela UnB
+  **Entusiasta de Dados | Estatística Aplicada | Insights Ambientais**
+  
+  *"Transformando dados em insights através de código e curiosidade."*
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+### Minhas Tecnologias
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,java,ts,nextjs,nestjs,postgres,linux,git" />
+  </a>
+</div>
 
 ---
 
-"Turning data into insight through code and curiosity."
+### Estatísticas do GitHub
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pedrolrm&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="pedrolrm's stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrolrm&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="pedrolrm's top langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
